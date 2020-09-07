@@ -1,2 +1,2 @@
 # DataStructreCode
-This repository for data structure code in C language.
+This repository for data structure (array, stacks, linked list) code in C language.
