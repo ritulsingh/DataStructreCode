@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// time complexity in best case is O(n^2)
+// time complexity in worst case is O(n^2)
 void bubbleSort(int data[], int size)
 {
     for (int i = 0; i < size - 1; i++)
