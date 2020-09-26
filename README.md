@@ -3,7 +3,7 @@ This repository for data structure (array, stacks, linked list) code in C langua
 
 ### Data Structure Operations Cheat Sheet
 **Note:** For best case operations, the time complexities are O(1).
-<table class="alt">
+<table >
 <tr>
 <th>Data Structure</th>
 <th colspan="8">Time Complexity</th>
