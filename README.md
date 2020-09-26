@@ -17,11 +17,11 @@ This repository for data structure (array, stacks, linked list) code in C langua
 </tr>
 <tr>
 <td></td>
-<td>Accessing nth element</td>
+<td>Accessing n<sup>th</sup> element</td>
 <td>Search</td>
 <td>Insertion</td>
 <td>Deletion</td>
-<td>Accessing nth element</td>
+<td>Accessing n<sup>th</sup> element</td>
 <td>Search</td>
 <td>Insertion</td>
 <td>Deletion</td>
