@@ -111,9 +111,46 @@ This repository for data structure (array, stacks, linked list) code in C langua
 <td>O(n)</td>
 <td>O(n)</td>
 </tr>
+</table><br>
+
+## Sorting Algorithm Cheat Sheet
+<table>
+<tr>
+<th rowspan="2">Storting Algorithm Name</th>
+<th colspan="3">Time Complexity</th>
+<th>Space Complexity</th>
+<th rowspan="2">Is Stable?</th>
+<th rowspan="2">Storting Class Type</th>
+<th rowspan="2">Remarks</th>
+</tr>
+<tr>
+<th>Best Case</th>
+<th>Average Case</th>
+<th>Worst Case</th>
+<th>Worst Case</th>
+</tr>
+<tr>
+<td><strong>Bubble Sort</strong></td>
+<td>O(n)</td>
+<td>O(n<sup>2</sup>)</td>
+<td>O(n<sup>2</sup>)</td>
+<td>O(1)</td>
+<td>Yes</td>
+<td>Comparison</td>
+<td>Not a preferred sorting algorithm</td>
+</tr>
+<tr>
+<td><strong>Insertion Sort</strong></td>
+<td>O(n)</td>
+<td>O(n<sup>2</sup>)</td>
+<td>O(n<sup>2</sup>)</td>
+<td>O(1)</td>
+<td>Yes</td>
+<td>Comparison</td>
+<td>In the best case (already sorted), every insert requires constant time.</td>
+</tr>
 </table>
- 
-    
+  
 ## Linked List
 * Linked List can be defined as collection of objects called **nodes** that are randomly stored in the memory.
 * A node contains two fields i.e. data stored at that particular address and the pointer which contains the address of the next node in the memory.
