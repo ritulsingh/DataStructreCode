@@ -189,6 +189,46 @@ This repository for data structure (array, stacks, linked list) code in C langua
 <td>Comparison</td>
 <td>Randomly picking a pivot value can help avoid worst case scenarios such as a perfectly sorted array.</td>
 </tr>
+<tr>
+<td><strong>Tree Sort</strong></td>
+<td>O(nlogn)</td>
+<td>O(nlogn)</td>
+<td>O(n<sup>2</sup>)</td>
+<td>O(n)</td>
+<td>Yes</td>
+<td>Comparison</td>
+<td>Performing inorder traversal on the balanced binary search tree.</td>
+</tr> 
+<tr>
+<td><strong>Counting Sort</strong></td>
+<td>O(n + k)</td>
+<td>O(n + k)</td>
+<td>O(n + k)</td>
+<td>O(k)</td>
+<td>Yes</td>
+<td>Linear</td>
+<td>Where k is the range of the non-negative key value.</td>
+</tr>
+<tr>
+<td><strong>Bucket Sort</strong></td>
+<td>O(n + k)</td>
+<td>O(n + k)</td>
+<td>O(n<sup>2</sup>)</td>
+<td>O(n)</td>
+<td>Yes</td>
+<td>Linear</td>
+<td>Bucket sort is stable, if the underlying sorting algorithm is stable.</td>
+</tr>
+<tr>
+<td><strong>Radix Sort</strong></td>
+<td>O(dn)</td>
+<td>O(dn)</td>
+<td>O(dn)</td>
+<td>O(d + n)</td>
+<td>Yes</td>
+<td>Linear</td>
+<td>Radix sort is stable, if the underlying sorting algorithm is stable.</td>
+</tr>
 </table>
   
 ## Linked List
