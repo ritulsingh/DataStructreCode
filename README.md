@@ -149,6 +149,26 @@ This repository for data structure (array, stacks, linked list) code in C langua
 <td>Comparison</td>
 <td>In the best case (already sorted), every insert requires constant time.</td>
 </tr>
+<tr>
+<td><strong>Selection Sort</strong></td>
+<td>O(n<sup>2</sup>)</td>
+<td>O(n<sup>2</sup>)</td>
+<td>O(n<sup>2</sup>)</td>
+<td>O(1)</td>
+<td>No</td>
+<td>Comparison</td>
+<td>Even a perfectly sorted array requires scanning the entire array.</td>
+</tr>
+<tr>
+<td><strong>Merge Sort</strong></td>
+<td>O(nlogn)</td>
+<td>O(nlogn)</td>
+<td>O(nlogn)</td>
+<td>O(n)</td>
+<td>Yes</td>
+<td>Comparison</td>
+<td>On array, it requires O(n) space and on linked lists, it requires constant space.</td>
+</tr>
 </table>
   
 ## Linked List
