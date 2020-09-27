@@ -5,27 +5,21 @@ This repository for data structure (array, stacks, linked list) code in C langua
 **Note:** For best case operations, the time complexities are O(1).
 <table >
 <tr>
-<th>Data Structure</th>
-<th colspan="8">Time Complexity</th>
+<th rowspan="2">Data Structure Name</th>
+<th colspan="4">Average Case Time Complexity</th>
+<th colspan="4">Worst Case Time Complexity</th>
 <th>Space Complexity</th>
 </tr>
 <tr>
-<td></td>
-<td colspan="4"><strong>Average Case</strong></td>
-<td colspan="4"><strong>Worst Case</strong></td>
+<td><strong>Accessing n<sup>th</sup> element</strong></td>
+<td><strong>Search</strong></td>
+<td><strong>Insertion</strong></td>
+<td><strong>Deletion</strong></td>
+<td><strong>Accessing n<sup>th</sup> element</strong></td>
+<td><strong>Search</strong></td>
+<td><strong>Insertion</strong></td>
+<td><strong>Deletion</strong></td>
 <td><strong>Worst Case</strong></td>
-</tr>
-<tr>
-<td></td>
-<td>Accessing n<sup>th</sup> element</td>
-<td>Search</td>
-<td>Insertion</td>
-<td>Deletion</td>
-<td>Accessing n<sup>th</sup> element</td>
-<td>Search</td>
-<td>Insertion</td>
-<td>Deletion</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>Arrays</strong></td>
