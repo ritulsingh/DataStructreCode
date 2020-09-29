@@ -34,6 +34,18 @@ This repository for data structure (array, stacks, linked list) code in C langua
 <td>O(n)</td>
 </tr>
 <tr>
+<td><strong>Singly Linked List</strong></td>
+<td>&theta;(n)</td>
+<td>&theta;(n)</td>
+<td>&theta;(1)</td>
+<td>&theta;(1)</td>
+<td>O(n)</td>
+<td>O(n)</td>
+<td>O(1)</td>
+<td>O(1)</td>
+<td>O(n)</td>
+</tr>
+<tr>
 <td><strong>Stacks</strong></td>
 <td>O(n)</td>
 <td>O(n)</td>
