@@ -244,4 +244,5 @@ This repository for data structure (array, stacks, linked list) code in C langua
 ### Uses of Linked List
 * The list is not required to be contiguously present in the memory. The node can reside any where in the memory and linked together to make a list. This achieves optimized utilization of space.
 * List size is limited to the memory size and doesn't need to be declared in advance.
+* We can store values of primitive types or objects in the singly linked list.
 
