@@ -1,6 +1,5 @@
 # DataStructreCode
 This repository for data structure (array, stacks, linked list) code in C language.
-
 ### Data Structure Operations Cheat Sheet
 **Note:** For best case operations, the time complexities are O(1).
 <table >
